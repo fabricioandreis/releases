@@ -1,0 +1,15 @@
+{
+    "version": "0.0.53",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fabricioandreis/releases/releases/download/v0.0.53/mcp-emailemnuvem-proxy_Windows_x86_64.tar.gz",
+            "bin": [
+                "mcp-emailemnuvem-proxy.exe"
+            ],
+            "hash": "9c5b888cb2283c5b6316ce33f9731fa02840afd54e1dc00d89657bae82c4b7b6"
+        }
+    },
+    "homepage": "https://github.com/fabricioandreis/mcp-emailemnuvem",
+    "license": "Proprietary",
+    "description": "Email em Nuvem MCP stdio Proxy - Model Context Protocol stdio proxy for Email em Nuvem API"
+}
