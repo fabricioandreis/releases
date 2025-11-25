@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fabricioandreis/releases/releases/download/v0.1.4/mcp-emailemnuvem-proxy_Windows_x86_64.tar.gz",
+            "url": "https://github.com/fabricioandreis/releases/releases/download/v0.1.5/mcp-emailemnuvem-proxy_Windows_x86_64.tar.gz",
             "bin": [
                 "mcp-emailemnuvem-proxy.exe"
             ],
-            "hash": "c7c6fc2f89a8f051e2ec680dd5da1906d5526916c1fd4bd9369c5197cbc6d98e"
+            "hash": "25f4d24101027be589e671d51674ab654c4d74827abb032e5aa16645de0c42c8"
         }
     },
     "homepage": "https://github.com/fabricioandreis/mcp-emailemnuvem",
